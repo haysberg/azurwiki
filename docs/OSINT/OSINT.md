@@ -7,14 +7,13 @@ L’OSINT est un acronyme pour Open Source Intelligence. Même si une littératu
 
 
 
-### Voici quelques communauté d'osint atives et très compétentes. 
+### Voici quelques communauté d'osint atives et agrégateur d'outils. 
 
 - [onstrat](https://onstrat.com/osint/)
 - [OSINTFR](https://osintfr.com/en/home/)
 - [OZINT](https://ozint.eu/)
-- []()
-- []()
-
+- [OSINT.LINK](https://osint.link/)
+  
 
 ### Ici une liste non exhaustive d'outils d'OSINT 
 
@@ -24,4 +23,3 @@ L’OSINT est un acronyme pour Open Source Intelligence. Même si une littératu
 - [thatsthem](https://thatsthem.com/) *outils de recherche de personne (plus orienté US)*
 - [visualsitemapper](https://visualsitemapper.com/) *outils de mapping de site web.*
 - [pimeyes](https://pimeyes.com/en) *site de recherche par reconnaissance faciale*
-- 
