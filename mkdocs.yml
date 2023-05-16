@@ -1,6 +1,6 @@
 repo_url: https://github.com/haysberg/random-veille
 edit_uri: edit/main/docs/
-site_name: My Docs
+site_name: CASPAR DB
 theme:
   language: fr
   icon:
@@ -34,5 +34,4 @@ theme:
         name: Switch to light mode
 plugins:
   - search:
-    lang: fr
-  - optimize
+      lang: fr
