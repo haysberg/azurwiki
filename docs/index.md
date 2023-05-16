@@ -3,3 +3,5 @@
 Ici on fait une grosse liste de technos sympas !
 
 ![HACKERMAN](images/HACKERMAN.png)
+
+Nous allons organiser les connaissances que nosu avons accumulé au fil du temps en les répartissant en différentes catégories.
