@@ -17,6 +17,10 @@ L’OSINT est un acronyme pour Open Source Intelligence. Même si une littératu
 
 ### Ici une liste non exhaustive d'outils d'OSINT 
 
+
+- [epieos](https://epieos.com/) *outils de recherche par addresse mail. il réference les sites ou l'adresse mail est utilisé.*
+- [intelx](https://intelx.io/) *moteur de recherche d'OSINT*
+- [haveibeenpwned](https://haveibeenpwned.com/) *site de recherche de fuite de données*
 - [webmii](https://webmii.com/) *Outil de recherche par nom et prénom.*
 - [spokeo](https://www.spokeo.com/) *Search by name, phone, address, or email to confidentially lookup information about people you know such as yourself, friends, family, acquaintances, and old classmates.*
 - [118 712](https://www.118712.fr/) *Souvent négligé, l'annuaire peut être une source de renseignement très intéressante.*
