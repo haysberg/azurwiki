@@ -17,6 +17,7 @@ theme:
     - navigation.sections
     - navigation.path
     - toc.follow
+    - content.tooltips
   name: material
   palette:
     # Palette toggle for light mode
@@ -38,3 +39,8 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - abbr
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
