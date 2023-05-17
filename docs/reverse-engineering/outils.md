@@ -23,3 +23,6 @@ GDB can run on most popular UNIX and Microsoft Windows variants, as well as on M
 - [Z3](https://github.com/Z3Prover/z3) : Z3 est un solveur de contraintes automatique développé par Microsoft Research. Il est utilisé pour résoudre des problèmes complexes impliquant des contraintes logiques et arithmétiques. Z3 peut être utilisé dans le cadre du reverse engineering pour résoudre des problèmes de vérification de modèles, de rétro-ingénierie de protocoles, d'optimisation de code, de détection de vulnérabilités, et plus encore.
   
 - [Angr](https://angr.io/) : Angr est un framework open source d'analyse binaire développé en Python. Il fournit une suite d'outils pour l'analyse automatique de programmes exécutables, en utilisant des techniques de symbolisation, de désassemblage et de résolution de contraintes. Angr est utilisé pour effectuer des tâches telles que la recherche de chemins d'exécution spécifiques, la génération automatique de tests et l'exploration de code.
+
+## Autres
+- [Remnux](https://docs.remnux.org/): A Linux toolkit for reverse-engineering and analyzing malicious software. REMnux provides a curated collection of free tools created by the community. Analysts can use it to investigate malware without having to find, install, and configure the tools.

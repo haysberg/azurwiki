@@ -6,4 +6,5 @@ Le reverse engineering, également appelé rétro-ingénierie, est le processus 
 
 ## Sommaire
 - [Outils](outils.md)
-- []()
+- [Tutoriels](tutos.md)
+- [Blogs intéressants](blogs.md)
