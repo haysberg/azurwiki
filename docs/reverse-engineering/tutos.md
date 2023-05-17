@@ -13,9 +13,12 @@ Ces articles sont un peu vieux mais très intéressant pour comprendre la struct
 ## Malware Analysis
 - [Comment trouver des malwares "dans la nature"](https://hacked.codes/2023/introduction-hunting-malware-in-the-wild/)
 - [Par où commencer ?](https://hshrzd.wordpress.com/how-to-start/)
-
+- [Implementation et contre mesure d'un keylogger](https://www.codeproject.com/Articles/10272/Keyboard-Spy-implementation-and-counter-measures)
+- 
 
 ## Reverse Engineering en général
 - [Une introduction à Angr](https://blog.notso.pro/2019-03-20-angr-introduction-part0/)
 - [Une liste de 23 tutos suivie de plusieurs techniques](https://legend.octopuslabs.io/sample-page.html)
-- 
+
+## Obfuscation
+- [Assembly Wrapping](https://medium.com/swlh/assembly-wrapping-a-new-technique-for-anti-disassembly-c144eb90e036)
