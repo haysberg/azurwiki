@@ -1,3 +1,9 @@
+---
+title: Technologies d'OSINT
+summary: Quelques informations sur l'OSINT
+    - Antoine Cousson
+---
+
 # Technologies d'OSINT
 
 ## L’Open Source Intelligence (OSINT)
