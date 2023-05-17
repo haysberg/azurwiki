@@ -8,4 +8,4 @@ Nous allons organiser les connaissances que nous avons accumulé au fil du temps
 
 
 - [OSINT](OSINT/OSINT.md)
-- [stéganographie](steagano/steagano.md)
+- [Stéganographie](steagano/steagano.md)
