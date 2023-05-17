@@ -10,5 +10,5 @@ Nous allons organiser les connaissances que nous avons accumulé au fil du temps
 
 
 - [OSINT](OSINT/OSINT.md)
-- [Stéganographie](Steganographie/steagano.md)
+- [Stéganographie](stegano/stegano.md)
 - [Reverse Engineering](Reverse-Engineering/re.md)
