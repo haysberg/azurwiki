@@ -38,13 +38,14 @@ Il existe différents types de crochets, avec différentes techniaues d'utilisat
 
 ![outils](images/outils.png)
 une clé de tension :<br>
-<img src="images/cle_de_tension.png" width="300"/>
 
+![clé de tension](images/cle_de_tension.png)
 
-#### Le Raclage
+### Le Raclage
 Le but est d'appuyer les goupille avec votre crochet et alignez-les comme indiqué sur l'image. Cela imite ce que fait la clé lorsqu'elle est insérée dans la serrure
 
 outils necessaire :
+
 - un crochet râteau
 - clé de tension
 
@@ -62,7 +63,8 @@ seul "bon" moyen de tenir la
 serrure. Choisissez simplement ce
 qui vous semble le plus naturel.
 
-<image src="images/raclage_1.png" width="200">
+![raclage_1](images/raclage_1.png)
+
 
 #### Deuxième étape
 
@@ -78,7 +80,7 @@ commencer à sentir les goupilles
 se placer (vous les entendrez
 «cliquer») !
 
-<image src="images/raclage_2.png" width="200">
+![raclage_2](images/raclage_2.png)
 
 #### Troisième étape
 Tout en maintenant la pression
@@ -92,7 +94,7 @@ besoin de laisser la pression sur la
 clé de tension pour réinitialiser les
 goupilles et recommencer.
 
-<image src="images/raclage_3.png" width="200">
-<image src="images/raclage_4.png" width="200">
+![raclage_3](images/raclage_3.png)
+![raclage_4](images/raclage_4.png)
 
 Au bout d'un moment, on sent que toutes les goupilles sont alignées, et on peut faire tourner le rotor pour ouvrir la serrure.
