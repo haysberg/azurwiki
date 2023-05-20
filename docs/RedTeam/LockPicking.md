@@ -37,7 +37,7 @@ Il existe plusieurs outils pour crocheter une serrure, mais les deux principaux 
 Il existe différents types de crochets, avec différentes techniaues d'utilisation, n'étant pas un expert en crochetage je vais partager ceux que j'utilise le plus souvent et je vais expliquer comment les utiliser. en faisant refference a un mannuel de crochetage que j'ai reçu avec un kit de crochetage.
 
 ![outils](images/outils.png)
-une clé de tension :
+une clé de tension :<br>
 <img src="images/cle_de_tension.png" width="300"/>
 
 
