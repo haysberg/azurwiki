@@ -74,14 +74,14 @@ markdown_extensions:
 nav:
   - Accueil: 'index.md'
   - Self-Hosting: 
-    - pourquoi.md
-    - os.md
+    - Self-Hosting/pourquoi.md
+    - Self-Hosting/os.md
   - Reverse Engineering:
-    - re.md
-    - tutos.md
-    - outils.md
-    - blogs.md
+    - Reverse-Engineering/re.md
+    - Reverse-Engineering/tutos.md
+    - Reverse-Engineering/outils.md
+    - Reverse-Engineering/blogs.md
   - Red Teaming:
-    - Crochetage: 'LockPicking.md'
-  - OSINT:
-    - OSINT.md  
+    - Crochetage: 'RedTeam/LockPicking.md'
+  - OSINT: OSINT/OSINT.md 
+  - Stéganographie: stegano/stegano.md
