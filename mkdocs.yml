@@ -36,7 +36,6 @@ theme:
 plugins:
   - search:
       lang: fr
-  - awesome-pages
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -72,3 +71,17 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+nav:
+  - Accueil: 'index.md'
+  - Self-Hosting: 
+    - pourquoi.md
+    - os.md
+  - Reverse Engineering:
+    - re.md
+    - tutos.md
+    - outils.md
+    - blogs.md
+  - Red Teaming:
+    - Crochetage: 'LockPicking.md'
+  - OSINT:
+    - OSINT.md  
