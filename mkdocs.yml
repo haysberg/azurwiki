@@ -36,6 +36,7 @@ theme:
 plugins:
   - search:
       lang: fr
+  - awesome-pages
 markdown_extensions:
   - attr_list
   - md_in_html
