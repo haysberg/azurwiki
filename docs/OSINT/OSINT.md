@@ -1,7 +1,7 @@
 ---
 title: Technologies d'OSINT
 summary: Quelques informations sur l'OSINT
-    - Antoine Cousson
+    - MonsieurCO
 ---
 
 # Technologies d'OSINT
@@ -40,4 +40,4 @@ L’OSINT est un acronyme pour Open Source Intelligence. Même si une littératu
 -  [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) *envoi de sms anonyme*
 -  [you.com](https://you.com/) *moteur de recherche assisté par IA*
 
-
+!!! warning Une procedure d'enquête osint est en cours de rédaction, n'hesitez pas à y participer en ajoutant des points essentiels. 
