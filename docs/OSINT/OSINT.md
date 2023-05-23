@@ -33,3 +33,11 @@ L’OSINT est un acronyme pour Open Source Intelligence. Même si une littératu
 - [thatsthem](https://thatsthem.com/) *outils de recherche de personne (plus orienté US)*
 - [visualsitemapper](https://visualsitemapper.com/) *outils de mapping de site web.*
 - [pimeyes](https://pimeyes.com/en) *site de recherche par reconnaissance faciale*
+- [Fuseaux horaires](https://24timezones.com/carte-fuseaux-horaires) *carte des fuseaux horaires*
+- [hudsonrock](https://cavalier.hudsonrock.com/passwords) *site de recherche de compte compromis par nom de deomaine*
+-  [BlackBird](https://blackbird-osint.herokuapp.com) *site de recherche par pseudonyme*
+-  [OSINT tracker](https://app.osintracker.com/) *solution de suivis d'enquête* **EST EBERGÉ SUR LE CLOUD**
+-  [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) *envoi de sms anonyme*
+-  [you.com](https://you.com/) *moteur de recherche assisté par IA*
+
+
