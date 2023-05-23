@@ -13,11 +13,17 @@ la sécurité informatique est essentielle, mais il ne faut pas oublier la sécu
 ### Composition d'une serrure
 
 Une serrure est composée de plusieurs éléments, qui sont les suivants :
+
 - Le barillet : c'est le cylindre qui contient les goupilles
+
 - Les goupilles : ce sont des tiges qui bloquent le barillet tant qu'elles ne sont pas alignées
+
 - Le ressort : c'est ce qui pousse les goupilles vers le bas
+
 - Le stator : c'est la partie fixe de la serrure, qui contient les goupilles
+
 - Le rotor : c'est la partie qui tourne, qui contient le barillet
+
 - Le pêne : c'est la partie qui va bloquer la porte
 
 ### Fonctionnement d'une serrure
