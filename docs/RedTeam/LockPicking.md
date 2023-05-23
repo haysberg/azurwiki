@@ -8,7 +8,7 @@ date: 2023-05-20
 ## Pourquoi apprendre à crocheter ?
 
 ### Introduction
-la sécurité informatique est essentielle, mais il ne faut pas oublier la sécurité physique. En effet, il est possible de crocheter une serrure en quelques secondes, et il est donc important de savoir comment se protéger de ce genre d'attaque. Et se rendre compte de la robustesse de sa serrure est un bon moyen de se rendre compte de la sécurité d'un lieu sensible comme une salle de serveur.
+La sécurité informatique est essentielle, mais il ne faut pas oublier la sécurité physique. En effet, il est possible de crocheter une serrure en quelques secondes, et il est donc important de savoir comment se protéger de ce genre d'attaque. Et se rendre compte de la robustesse de sa serrure est un bon moyen de se rendre compte de la sécurité d'un lieu sensible comme une salle de serveur.
 
 ### Composition d'une serrure
 
@@ -52,8 +52,8 @@ Le but est d'appuyer les goupille avec votre crochet et alignez-les comme indiqu
 
 outils necessaire :
 
-- un crochet râteau
-- clé de tension
+- Un crochet râteau
+- Clé de tension
 
 #### Première étape 
 
