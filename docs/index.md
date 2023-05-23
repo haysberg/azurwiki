@@ -12,3 +12,5 @@ Nous allons organiser les connaissances que nous avons accumulé au fil du temps
 - [OSINT](OSINT/OSINT.md)
 - [Stéganographie](stegano/stegano.md)
 - [Reverse Engineering](Reverse-Engineering/re.md)
+- [Red Team](RedTeam/RedTeam.md)
+- [Self-Hosting](Self-Hosting/pourquoi.md)
