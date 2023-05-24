@@ -13,7 +13,7 @@ Ces articles sont un peu vieux mais très intéressant pour comprendre la struct
 ## Malware Analysis
 - [Comment trouver des malwares "dans la nature"](https://hacked.codes/2023/introduction-hunting-malware-in-the-wild/)
 - [Par où commencer ?](https://hshrzd.wordpress.com/how-to-start/)
-- [Implementation et contre mesure d'un keylogger](https://www.codeproject.com/Articles/10272/Keyboard-Spy-implementation-and-counter-measures)
+- [Implémentation et contre-mesure d'un keylogger](https://www.codeproject.com/Articles/10272/Keyboard-Spy-implementation-and-counter-measures)
 - 
 
 ## Reverse Engineering en général
