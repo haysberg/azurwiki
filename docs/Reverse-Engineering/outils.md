@@ -1,5 +1,9 @@
+---
+lang: fr
+---
+
 # Outils
-Voici une listes de plusieurs outils de reverse engineering
+Voici une liste de plusieurs outils de reverse engineering
 
 ## Désassembleurs
 - [IDA Pro](https://hex-rays.com/ida-pro/) : Un des outils les plus populaires pour l'analyse de code binaire, permettant de décompiler, de désassembler et d'analyser des programmes exécutables.

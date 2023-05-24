@@ -3,6 +3,7 @@ title: Pourquoi apprendre à crocheter ?
 authors:
     - MonsieurCO
 date: 2023-05-20
+lang: fr
 ---
 
 ## Pourquoi apprendre à crocheter ?
@@ -20,7 +21,7 @@ Une serrure est composée de plusieurs éléments, qui sont les suivants :
 
 - Le ressort : c'est ce qui pousse les goupilles vers le bas
 
-- Le stator : c'est la partie fixe de la serrure, qui contient les goupilles
+- Le stator : c'est la partie fixe de la serrure qui contient les goupilles
 
 - Le rotor : c'est la partie qui tourne, qui contient le barillet
 
@@ -28,7 +29,7 @@ Une serrure est composée de plusieurs éléments, qui sont les suivants :
 
 ### Fonctionnement d'une serrure
 
-Voici un gif qui montre le fonctionnement d'une serrure :
+Voici un GIF qui montre le fonctionnement d'une serrure :
 
 ![serrure](images/crochets.gif)
 
@@ -40,9 +41,9 @@ Il existe plusieurs outils pour crocheter une serrure, mais les deux principaux 
 - Le crochet : c'est un outil qui permet de pousser les goupilles vers le haut
 - Le tensionneur : c'est un outil qui permet de faire tourner le rotor
 
-Il existe différents types de crochets, avec différentes techniaues d'utilisation, n'étant pas un expert en crochetage je vais partager ceux que j'utilise le plus souvent et je vais expliquer comment les utiliser. en faisant refference a un mannuel de crochetage que j'ai reçu avec un kit de crochetage.
+Il existe différents types de crochets, avec différentes techniques d'utilisation, n'étant pas un expert en crochetage, je vais partager ceux que j'utilise le plus souvent et je vais expliquer comment les utiliser. En faisant référence a un manuel de crochetage que j'ai reçu avec un kit de crochetage.
 
-![outils](images/outils.png)
+![Outils](images/outils.png)
 une clé de tension :<br>
 
 ![clé de tension](images/cle_de_tension.png)
@@ -50,7 +51,7 @@ une clé de tension :<br>
 ### Le Raclage
 Le but est d'appuyer les goupille avec votre crochet et alignez-les comme indiqué sur l'image. Cela imite ce que fait la clé lorsqu'elle est insérée dans la serrure
 
-outils necessaire :
+outils nécessaires :
 
 - Un crochet râteau
 - Clé de tension
@@ -76,7 +77,7 @@ qui vous semble le plus naturel.
 
 Insérez le crochet râteau juste en
 dessous de la clé de tension.
-Lentement, «ratissez» sur les
+Lentement, « ratissez » sur les
 goupilles et appuyez légèrement
 dessus. En même temps,
 appliquez doucement une
@@ -84,7 +85,7 @@ pression avec votre doigt sur la
 clé de tension. Vous allez
 commencer à sentir les goupilles
 se placer (vous les entendrez
-«cliquer») !
+« cliquer ») !
 
 ![raclage_2](images/raclage_2.png)
 
