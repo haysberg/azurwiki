@@ -75,6 +75,7 @@ nav:
   - Accueil: 'index.md'
   - Self-Hosting: 
     - Self-Hosting/pourquoi.md
+    - Self-Hosting/hardware.md
     - Self-Hosting/os.md
   - Reverse Engineering:
     - Reverse-Engineering/re.md
