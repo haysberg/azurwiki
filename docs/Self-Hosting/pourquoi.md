@@ -28,7 +28,7 @@ Pour pouvoir utiliser votre propre serveur à la maison, il vous faudra :
 - :globe_with_meridians: **Une connexion Internet** : Bien qu'il soit possible d'avoir accès à un serveur depuis Internet si celui-ci tourne derrière une box ADSL, beaucoup de services nécessite d'avoir plus de 6 Mbps de bande passante à disposition, il est donc fortement recommandé d'être **fibré**.
 
 
-!!! warning
+!!! warning "Note concernant les types de boxs Internet supportées"
 
     Il est important de noter que nous aurons besoin d'une connexion et d'un routeur capable de faire du **port-forwarding**.
     
