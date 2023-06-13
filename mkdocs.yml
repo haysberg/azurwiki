@@ -74,9 +74,17 @@ markdown_extensions:
 nav:
   - Accueil: 'index.md'
   - Self-Hosting: 
-    - Self-Hosting/pourquoi.md
-    - Self-Hosting/hardware.md
-    - Self-Hosting/os.md
+    - Introduction :
+      - Self-Hosting/intro/pourquoi.md
+      - Self-Hosting/intro/hardware.md
+      - Self-Hosting/intro/os.md
+    - Alternatives :
+      - Self-Hosting/alternatives/netflix.md
+    - Outils : 
+      - Self-Hosting/outils/caddy.md
+      - Self-Hosting/outils/dns.md
+      - Self-Hosting/outils/docker.md
+      - Self-Hosting/outils/securite.md
   - Reverse Engineering:
     - Reverse-Engineering/re.md
     - Reverse-Engineering/tutos.md
