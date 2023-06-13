@@ -129,6 +129,10 @@ Il faut faire attention a ne pas appuyer trop fort sur les goupilles, sinon elle
 une fois l'on entend un petit **"clic"** c'est que la goupille est alignée, et on peut passer a la suivante.
 Une fois que toutes les goupilles sont alignées, on peut faire tourner le barillet pour ouvrir la serrure.
 
-### Conclusion
+#### Conclusion
 
 Evidemment cette technique est plus difficile en fonction du nombre de goupilles, mais avec de l'entrainement, on peut crocheter une serrure en quelques secondes.
+
+### Conclusion
+
+On peut imaginer très facilement que si on arrive a crocheter une serrure, on peut facilement accéder a un lieu sensible, et donc il est important de savoir comment se protéger de ce genre d'attaque. Il existe plusieurs techniques pour se protéger du crochetage, mais la plus simple est d'utiliser une serrure avec un système de sécurité supplémentaire, comme un système de sécurité électronique, ou une serrure avec un système de sécurité supplémentaire comme un système anti-crochetage. Le tout est de sqvoir dimensuionner la sécurité en fonction de la sensibilité du lieu et de l'asset a protéger.
