@@ -11,6 +11,10 @@ summary: Quelques informations sur l'OSINT
 L’OSINT est un acronyme pour Open Source Intelligence. Même si une littérature scientifique et professionnelle existe autour de ce concept, il mérite qu’on s’y attarde quelque peu, pour tenter d’en décrypter le sens, surtout que sa traduction française « renseignements de sources ouvertes » exclut, d’une part, le mot intelligence et n’apporte pas, de l’autre, un éclairage précis sur les composantes de cette discipline. Certes, le concept d’intelligence pose ici problème parce qu’il désigne, en français, la faculté intellectuelle de comprendre en raisonnant, alors que le mot en anglais détermine une série de pratiques employées pour récupérer des informations, mais le mot renseignement dans la traduction française présente comme principal écueil d’être plus exclusif qu’inclusif. Il renvoie surtout aux activités des services secrets là où le mot intelligence laisse la place à des pratiques collaboratives et citoyennes, très proches de l’esprit OSINT, comme c’est le cas avec le terme Intelligence collective.
 *Définition du [cairn](https://www.cairn.info/revue-i2d-information-donnees-et-documents-2021-1-page-14.htm).*
 
+### Processus d'enquête OSINT
+- [Procédure](procedure.md)
+- [OSINT Framework](https://osintframework.com/) *site de référence pour les enquêtes OSINT*
+
 
 
 ### Voici quelques communautés d'OSINT actives et agrégateur d'outils. 

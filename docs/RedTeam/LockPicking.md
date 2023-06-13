@@ -51,7 +51,7 @@ une clé de tension :<br>
 ### Le Raclage
 Le but est d'appuyer les goupille avec votre crochet et alignez-les comme indiqué sur l'image. Cela imite ce que fait la clé lorsqu'elle est insérée dans la serrure
 
-outils nécessaires :
+##### outils nécessaires :
 
 - Un crochet râteau
 - Clé de tension
@@ -105,3 +105,30 @@ goupilles et recommencer.
 ![raclage_4](images/raclage_4.png)
 
 Au bout d'un moment, on sent que toutes les goupilles sont alignées, et on peut faire tourner le rotor pour ouvrir la serrure.
+
+### Le Goupille À Goupille
+
+Le but est d’appuyer sur les goupilles une par une individuellement avec votre crochet, et les aligner comme dans la méthode de raclage
+
+##### outils nécessaires :
+
+- Un crochet simple
+- Clé de tension
+
+#### Première étape 
+
+La première étape est la même que pour la méthode de raclage, il faut tenir la serrure dans la main et insérer la clé de tension comme indiqué sur l'image de la methode de raclage.
+
+#### Deuxième étape
+
+Voici un visuel de la marche a suivre :
+![lock_picking](images/lock_picking.gif)
+
+Simplement, ce qu'il faut faire, c'est appuyer sur les goupilles une par une délicatement avec le crochet tout en applicant une tension sur la barillet.
+Il faut faire attention a ne pas appuyer trop fort sur les goupilles, sinon elles vont se bloquer et empechera de faire tourner le barillet  il faudra tout recommencer en relachant la tension sur le barillet.
+une fois l'on entend un petit **"clic"** c'est que la goupille est alignée, et on peut passer a la suivante.
+Une fois que toutes les goupilles sont alignées, on peut faire tourner le barillet pour ouvrir la serrure.
+
+### Conclusion
+
+Evidemment cette technique est plus difficile en fonction du nombre de goupilles, mais avec de l'entrainement, on peut crocheter une serrure en quelques secondes.
