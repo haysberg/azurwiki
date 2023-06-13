@@ -84,5 +84,7 @@ nav:
     - Reverse-Engineering/blogs.md
   - Red Teaming:
     - Crochetage: 'RedTeam/LockPicking.md'
+    - Attaque Web:
+      - RedTeam/Web-Attack/XSS.md
   - OSINT: OSINT/OSINT.md 
   - Stéganographie: stegano/stegano.md
