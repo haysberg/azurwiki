@@ -107,8 +107,6 @@ goupilles et recommencer.
 ![raclage_4](images/raclage_4.png)
 
 Au bout d'un moment, on sent que toutes les goupilles sont alignées, et on peut faire tourner le rotor pour ouvrir la serrure.
-<<<<<<< HEAD:docs/03-redteam/01-lockpick.md
-=======
 
 ### Le Goupille À Goupille
 
@@ -137,4 +135,3 @@ Une fois que toutes les goupilles sont alignées, on peut faire tourner le baril
 
 Evidemment cette technique est plus difficile en fonction du nombre de goupilles, mais avec de l'entrainement, on peut crocheter une serrure en quelques secondes.
 On peut imaginer très facilement que si on arrive à crocheter une serrure, on peut facilement accéder à un lieu sensible, et donc il est important de savoir comment se protéger de ce genre d'attaque. Il existe plusieurs techniques pour se protéger du crochetage, mais la plus simple est d'utiliser une serrure avec un système de sécurité supplémentaire, comme un système de sécurité électronique, ou une serrure avec un système de sécurité supplémentaire, comme un système anti-crochetage. Le tout est de savoir dimensionner la sécurité en fonction de la sensibilité du lieu et de l'asset à protéger.
->>>>>>> main:docs/RedTeam/LockPicking.md

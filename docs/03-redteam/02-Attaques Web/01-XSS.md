@@ -1,9 +1,11 @@
 ---
 title: XSS, késako ?
-authors:
-    - Pierre-Ky-org
-date: 2023-06-10
-lang: fr
+sidebar_label: XSS
+pagination_label: XSS, késako ?
+description: XSS, késako ?
+keywords:
+  - docs
+  - OSINT
 ---
 
 ## Qu'est ce qu'une XSS ?
