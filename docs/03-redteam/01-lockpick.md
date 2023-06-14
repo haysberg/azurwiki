@@ -124,7 +124,7 @@ La première étape est la même que pour la méthode de raclage, il faut tenir 
 #### Deuxième étape
 
 Voici un visuel de la marche a suivre :
-![lock_picking](images/lock_picking.gif)
+![lock_picking](images/crochets.gif)
 
 Simplement, ce qu'il faut faire, c'est appuyer sur les goupilles une par une délicatement avec le crochet tout en appliquant une tension sur le barillet.
 Il faut faire attention à ne pas appuyer trop fort sur les goupilles, sinon elles vont se bloquer et empêchera de faire tourner le barillet, il faudra tout recommencer en relâchant la tension sur le barillet.
