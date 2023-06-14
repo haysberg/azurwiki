@@ -10,6 +10,8 @@ keywords:
 
 Obtenir un nom de domaine va vite être nécessaire, que cela soit en terme de sécurité (il y a besoin d'une entrée DNS pour obtenir un certificat valide pour le HTTPS) ou d'utilisabilité (aucun utilisateur ne se souviendra de votre IP, surtout si elle change).
 
+## Quel registar choisir ?
+
 Pour obtenir un nom de domaine, vous allez devoir passer par un *registar*, autrement dit une entreprise capable d'enregistrer un nom de domaine.
 
 Nous en recommandons deux.
@@ -28,3 +30,6 @@ De plus, Cloudflare ne gagne pas d'argent sur leur enregistrements DNS ! Le prix
 [OVH](https://www.ovhcloud.com/fr/) permet aussi d'acheter des noms de domaine, mais pour plus cher que Cloudflare.
 
 C'est un hébergeur Français qui peut aussi vous faire une ristourne si vous prenez une offre d'hébergement avec un nom de domaine.
+
+## Configurer le changement d'IP automatique
+

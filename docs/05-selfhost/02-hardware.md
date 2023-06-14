@@ -95,13 +95,16 @@ Un HDD vous coûtera quelques euros de moins qu'un SSD, mais pour un volume de 2
 Voici quelques machines qu'il peut être intéressant de chercher. On ne va pas vraiment rajouter de description, elles font toutes un peu la même chose, ont plus ou moins la même capacité de refroidissement et les mêmes pièces.
 
 ![La famille des Optiplex](images/optiplex.webp)
+
 *La série Optiplex de Dell.*
 [Trouver sur BackMarket](https://www.backmarket.fr/fr-fr/search?q=optiplex)
 
 ![La famille des ThinkStation](images/thinkstation.webp)
+
 *La série ThinkStation / ThinkCenter de Lenovo.*
 [Trouver sur BackMarket](https://www.backmarket.fr/fr-fr/l/unite-centrale-reconditionnee/52751b87-5a52-4180-a05f-eceee9971a5a#brand=99%20Lenovo)
 
 ![La famille des Z](images/hp_z.jpg)
+
 *La série WorkStation Z de HP.*
 [Trouver sur eBay](https://www.ebay.fr/sch/i.html?_nkw=workstation+Z&_sacat=0)
