@@ -45,6 +45,13 @@ Que cela soit une phrase de passe d'au moins 25 caractères mélangeant minuscul
 
 Pour éviter d'avoir à le retaper plusieurs fois, il est recommandé d'utiliser des clés SSH.
 
+Pour désactiver la connexion SSH sur `sshd` vous pouvez modifier les deux paramètres suivants dans `/etc/ssh/sshd_config` :
+
+```
+PasswordAuthentication no
+PubkeyAuthentication yes
+```
+
 ## 🗝️ Clés SSH
 
 Une clé SSH, c'est un autre moyen de vous authentifier ! Cela permet notamment de remplacer votre mot de passe, surtout si il est très long.
