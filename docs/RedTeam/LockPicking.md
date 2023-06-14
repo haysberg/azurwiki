@@ -117,22 +117,19 @@ Le but est d’appuyer sur les goupilles une par une individuellement avec votre
 
 #### Première étape 
 
-La première étape est la même que pour la méthode de raclage, il faut tenir la serrure dans la main et insérer la clé de tension comme indiqué sur l'image de la methode de raclage.
+La première étape est la même que pour la méthode de raclage, il faut tenir la serrure dans la main et insérer la clé de tension comme indiqué sur l'image de la méthode de raclage.
 
 #### Deuxième étape
 
 Voici un visuel de la marche a suivre :
 ![lock_picking](images/lock_picking.gif)
 
-Simplement, ce qu'il faut faire, c'est appuyer sur les goupilles une par une délicatement avec le crochet tout en applicant une tension sur la barillet.
-Il faut faire attention a ne pas appuyer trop fort sur les goupilles, sinon elles vont se bloquer et empechera de faire tourner le barillet  il faudra tout recommencer en relachant la tension sur le barillet.
-une fois l'on entend un petit **"clic"** c'est que la goupille est alignée, et on peut passer a la suivante.
+Simplement, ce qu'il faut faire, c'est appuyer sur les goupilles une par une délicatement avec le crochet tout en appliquant une tension sur le barillet.
+Il faut faire attention à ne pas appuyer trop fort sur les goupilles, sinon elles vont se bloquer et empêchera de faire tourner le barillet, il faudra tout recommencer en relâchant la tension sur le barillet.
+Une fois l'on entend un petit **"clic"** c'est que la goupille est alignée, et on peut passer à la suivante.
 Une fois que toutes les goupilles sont alignées, on peut faire tourner le barillet pour ouvrir la serrure.
 
 #### Conclusion
 
 Evidemment cette technique est plus difficile en fonction du nombre de goupilles, mais avec de l'entrainement, on peut crocheter une serrure en quelques secondes.
-
-### Conclusion
-
-On peut imaginer très facilement que si on arrive a crocheter une serrure, on peut facilement accéder a un lieu sensible, et donc il est important de savoir comment se protéger de ce genre d'attaque. Il existe plusieurs techniques pour se protéger du crochetage, mais la plus simple est d'utiliser une serrure avec un système de sécurité supplémentaire, comme un système de sécurité électronique, ou une serrure avec un système de sécurité supplémentaire comme un système anti-crochetage. Le tout est de sqvoir dimensuionner la sécurité en fonction de la sensibilité du lieu et de l'asset a protéger.
+On peut imaginer très facilement que si on arrive à crocheter une serrure, on peut facilement accéder à un lieu sensible, et donc il est important de savoir comment se protéger de ce genre d'attaque. Il existe plusieurs techniques pour se protéger du crochetage, mais la plus simple est d'utiliser une serrure avec un système de sécurité supplémentaire, comme un système de sécurité électronique, ou une serrure avec un système de sécurité supplémentaire, comme un système anti-crochetage. Le tout est de savoir dimensionner la sécurité en fonction de la sensibilité du lieu et de l'asset à protéger.
