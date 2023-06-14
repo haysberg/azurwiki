@@ -1,0 +1,913 @@
+
+<!doctype html>
+<html lang="fr" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../pourquoi/">
+      
+      
+        <link rel="next" href="../os/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
+    
+    
+      
+        <title>Trouver une machine - CASPAR DB</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#trouver-une-machine" class="md-skip">
+          Aller au contenu
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="En-tête">
+    <a href="../.." title="CASPAR DB" class="md-header__button md-logo" aria-label="CASPAR DB" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            CASPAR DB
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Trouver une machine
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Rechercher" placeholder="Rechercher" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Recherche">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Partager" aria-label="Partager" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Effacer" aria-label="Effacer" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initialisation de la recherche
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/haysberg/random-veille" title="Aller au dépôt" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="CASPAR DB" class="md-nav__button md-logo" aria-label="CASPAR DB" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    CASPAR DB
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/haysberg/random-veille" title="Aller au dépôt" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Accueil
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Self-Hosting
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Self-Hosting
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pourquoi/" class="md-nav__link">
+        Self-Hosting, kécécé ?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Trouver une machine
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Trouver une machine
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#configuration-recommandee-pour-un-serveur-classique" class="md-nav__link">
+    Configuration recommandée pour un serveur "classique"
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vous-avez-deja-un-ordinateur" class="md-nav__link">
+    Vous avez déjà un ordinateur
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vous-navez-pas-dordinateur" class="md-nav__link">
+    Vous n'avez pas d'ordinateur
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#les-erreurs-a-ne-pas-faire" class="md-nav__link">
+    Les erreurs à ne pas faire
+  </a>
+  
+    <nav class="md-nav" aria-label="Les erreurs à ne pas faire">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#avoir-un-serveur-trop-gourmand" class="md-nav__link">
+    Avoir un serveur trop gourmand
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#avoir-un-serveur-trop-petit" class="md-nav__link">
+    Avoir un serveur trop petit
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#problemes-de-connexion" class="md-nav__link">
+    Problèmes de connexion
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#avoir-un-hdd-pour-installer-son-os" class="md-nav__link">
+    Avoir un HDD pour installer son OS
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#les-machines-doccasion-a-rechercher" class="md-nav__link">
+    Les machines d'occasion à rechercher
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../os/" class="md-nav__link">
+        Quel OS choisir ?
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Reverse Engineering
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Reverse Engineering
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Reverse-Engineering/re/" class="md-nav__link">
+        Reverse Engineering
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Reverse-Engineering/tutos/" class="md-nav__link">
+        Tutoriels
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Reverse-Engineering/outils/" class="md-nav__link">
+        Outils
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Reverse-Engineering/blogs/" class="md-nav__link">
+        Blogs
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Red Teaming
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Red Teaming
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RedTeam/LockPicking/" class="md-nav__link">
+        Crochetage
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+          Attaque Web
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Attaque Web
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../RedTeam/Web-Attack/XSS/" class="md-nav__link">
+        XSS, késako ?
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../OSINT/OSINT/" class="md-nav__link">
+        OSINT
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../stegano/stegano/" class="md-nav__link">
+        Stéganographie
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#configuration-recommandee-pour-un-serveur-classique" class="md-nav__link">
+    Configuration recommandée pour un serveur "classique"
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vous-avez-deja-un-ordinateur" class="md-nav__link">
+    Vous avez déjà un ordinateur
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vous-navez-pas-dordinateur" class="md-nav__link">
+    Vous n'avez pas d'ordinateur
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#les-erreurs-a-ne-pas-faire" class="md-nav__link">
+    Les erreurs à ne pas faire
+  </a>
+  
+    <nav class="md-nav" aria-label="Les erreurs à ne pas faire">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#avoir-un-serveur-trop-gourmand" class="md-nav__link">
+    Avoir un serveur trop gourmand
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#avoir-un-serveur-trop-petit" class="md-nav__link">
+    Avoir un serveur trop petit
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#problemes-de-connexion" class="md-nav__link">
+    Problèmes de connexion
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#avoir-un-hdd-pour-installer-son-os" class="md-nav__link">
+    Avoir un HDD pour installer son OS
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#les-machines-doccasion-a-rechercher" class="md-nav__link">
+    Les machines d'occasion à rechercher
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/haysberg/random-veille/edit/main/docs/Self-Hosting/hardware.md" title="Editer cette page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="trouver-une-machine">Trouver une machine<a class="headerlink" href="#trouver-une-machine" title="Permanent link">&para;</a></h1>
+<p>Choisir une machine, c'est tout un art !</p>
+<p>Vos services vont devoir tourner sur votre propre serveur, c'est donc là que vous devrez faire ce que font traditionellement les hébergeurs cloud pour vous : choisir le <em>hardware</em> sur lequel vont tourner tout ce que vous souhaitez héberger.</p>
+<p>Démystifions quelque chose d'assez répandu : un serveur, c'est un ordinateur comme les autres ! Il fonctionne comme n'importe quel autre ordinateur. Il a juste un hardware qui lui permet de résister un peu mieux aux pannes. Un ordinateur personnel <strong>peut</strong> être un serveur !</p>
+<p>Passons en revue les différentes options qui peuvent s'offrir à vous si vous souhaitez faire de l'auto-hébergement...</p>
+<h2 id="configuration-recommandee-pour-un-serveur-classique">Configuration recommandée pour un serveur "classique"<a class="headerlink" href="#configuration-recommandee-pour-un-serveur-classique" title="Permanent link">&para;</a></h2>
+<p>Cette configuration vous permettra de streamer des séries stockées au préalable, faire tourner des serveurs Minecraft, un serveur Web et autre joyeusetés (bloqueur de pub par exemple).</p>
+<table>
+<thead>
+<tr>
+<th>CPU</th>
+<th>i7 4e Gen / i5 8e Gen</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPU</td>
+<td>Aucun</td>
+</tr>
+<tr>
+<td>RAM</td>
+<td>8 Go (16 pour un serveur Minecraft moddé)</td>
+</tr>
+<tr>
+<td>Disque (OS)</td>
+<td>Pour l'OS : 256 Go de SSD</td>
+</tr>
+<tr>
+<td>Disque (Stockage)</td>
+<td>4 To Minimum</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition warning">
+<p class="admonition-title">A propos du stockage</p>
+<p>Certaines machines ne proposent qu'un seul emplacement de disque.
+Il vous sera donc impossible d'avoir deux disques de stockage.
+<em>Pour le SSD, il se cale un peu n'importe où, vu qu'il ne tourne pas.</em></p>
+</div>
+<h2 id="vous-avez-deja-un-ordinateur">Vous avez déjà un ordinateur<a class="headerlink" href="#vous-avez-deja-un-ordinateur" title="Permanent link">&para;</a></h2>
+<p>L'ordinateur le moins cher, c'est celui que l'on a déjà sous la main : le vieux PC bureautique poussiéreux de mamie, un ancien pc portable sur lequel vous jouiez quand vous étiez au collège, un vieux coucou qui trainait au travail... Toutes ces machines peuvent devenir un serveur plus que capable.</p>
+<p>Concrètement, si l'ordinateur en question est sorti dans les 20 dernières années, on devrait pouvoir le transformer en serveur.</p>
+<p>Un processeur Intel i3/i5/i7 sera capable de faire tourner votre serveur, même si c'est une génération très ancienne. Pour la RAM, à moins que votre ordinateur possède moins de 512 Mo de RAM, vous pouvez faire tourner un serveur dessus.</p>
+<h2 id="vous-navez-pas-dordinateur">Vous n'avez pas d'ordinateur<a class="headerlink" href="#vous-navez-pas-dordinateur" title="Permanent link">&para;</a></h2>
+<p>Le meilleur moyen d'avoir un serveur qui envoie du paté pour pas cher, c'est d'acheter un ordinateur d'occasion ! Nous vous recommandons des ordinateurs bureautique. Ils sont peu chers car disponibles en très grande quantité, solides (ce sont des ordinateurs pour pro après tout) et bien assez puissant pour bon nombre d'applications.</p>
+<p>Nous vous conseillons uniquement deux sites pour pouvoir acheter vos machines :</p>
+<ul>
+<li>
+<p><a href="https://www.backmarket.fr/fr-fr">BackMarket</a> est un site Français, qui propose uniquement des machines d'occasion. Vous pourrez y trouver votre bonheur, parfois à moins de 100€ suivant vos besoins ! La livraison est relativement rapide (moins d'une semaine généralement), et les machines arrivent en un seul morceau.</p>
+</li>
+<li>
+<p><a href="https://www.ebay.fr/">eBay</a> vous permettra de trouver beaucoup de machines reconditionnées, pour la plupart expédiées d'Allemagne. Les prix peuvent potentiellement être plus compétitifs que BackMarket si vous avez la patience pour trouver le bon deal.</p>
+</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Frais de douanes</p>
+<p>Pour éviter les frais de douane, ne commandez que chez des fournisseurs qui expédient depuis l'Union Européenne (le Royaume-Uni ne compte pas).</p>
+</div>
+<h2 id="les-erreurs-a-ne-pas-faire">Les erreurs à ne pas faire<a class="headerlink" href="#les-erreurs-a-ne-pas-faire" title="Permanent link">&para;</a></h2>
+<h3 id="avoir-un-serveur-trop-gourmand">Avoir un serveur trop gourmand<a class="headerlink" href="#avoir-un-serveur-trop-gourmand" title="Permanent link">&para;</a></h3>
+<p>Il peut être tentant de prendre une grosse machine et ainsi pouvoir infliger n'importe quelle charge à sa machine sans trop savoir ce qu'on va faire avec.</p>
+<p>Il est conseillé de ne pas avoir les yeux plus gros que le ventre. Si vous ne savez pas trop ce que vous allez faire de votre serveur, 500GB de stockage suffisent, ainsi qu'un i5 (ou i3 récent) et 8/16 Go de RAM.</p>
+<p>En prenant un serveur trop gourmand, vous allez augmenter le prix de votre facture d'électricité pour de la puissance de calcul inutilisée. Il vous sera plus facile d'acheter une deuxième machine au cas où et de transférer vos services, en gardant votre première machine pour certains services, ou pour un membre de votre famille !</p>
+<div class="admonition danger">
+<p class="admonition-title">Prendre un serveur trop petit</p>
+<p>Il est évidemment un gâchis d'argent d'acheter un serveur qui ne pourra faire tourner AUCUN de vos services. Du moment que vous investissez dans une machine à plus de 70 euros vous ne devriez pas avoir ce genre de problème. N'achetez pas de serveur en dessous de 50 euros, il ne vous sera probablement pas utile.</p>
+</div>
+<h3 id="avoir-un-serveur-trop-petit">Avoir un serveur trop petit<a class="headerlink" href="#avoir-un-serveur-trop-petit" title="Permanent link">&para;</a></h3>
+<p><em>On parle ici des dimensions du serveur.</em></p>
+<p>Si vous prévoyez de rajouter du stockage en plus du disque dur qui sera (peut-être) fourni avec votre machine, faites bien attention à avoir la place dedans !</p>
+<p>De manière générale, les PCs au format petite tour peuvent accueillir un disque dur supplémentaire. Concrètement, si le PC est plus petit ou fait la taille de votre box, vous pouvez être sûr qu'il est impossible d'ajouter un deuxième disque dur.</p>
+<h3 id="problemes-de-connexion">Problèmes de connexion<a class="headerlink" href="#problemes-de-connexion" title="Permanent link">&para;</a></h3>
+<p>Connectez votre serveur en Ethernet à votre box, il aura ainsi une bien meilleur connexion par rapport à une connection Wi-Fi, surtout si la puce Wi-Fi en question est connectée en USB à votre serveur !</p>
+<p>De plus, il est intéressant de regarder la vitesse maximale du port Ethernet de votre serveur pour voir si il bridera vos téléchargements / envois de fichiers. Par exemple, certaines machines plutôt ancienne n'ont qu'un port 100 Mbps, ce qui est plus bas que ce qu'une box fibre FTTH peut vous offrir.</p>
+<h3 id="avoir-un-hdd-pour-installer-son-os">Avoir un HDD pour installer son OS<a class="headerlink" href="#avoir-un-hdd-pour-installer-son-os" title="Permanent link">&para;</a></h3>
+<p>Un HDD vous coûtera quelques euros de moins qu'un SSD, mais pour un volume de 236 ou 512 GB cela reste négligeable vis-à-vis du coût du serveur. On vous conseille d'en prendre un, notamment pour avoir des mises à jour de paquets plus rapide, un serveur dispo plus rapidement lors d'un reboot, et certains services gourmands qui démarreront plus rapidement.</p>
+<h2 id="les-machines-doccasion-a-rechercher">Les machines d'occasion à rechercher<a class="headerlink" href="#les-machines-doccasion-a-rechercher" title="Permanent link">&para;</a></h2>
+<p>Voici quelques machines qu'il peut être intéressant de chercher. On ne va pas vraiment rajouter de description, elles font toutes un peu la même chose, ont plus ou moins la même capacité de refroidissement et les mêmes pièces.</p>
+<p><img alt="La famille des Optiplex" src="../images/optiplex.webp" />
+<em>La série Optiplex de Dell.</em>
+<a href="https://www.backmarket.fr/fr-fr/search?q=optiplex">Trouver sur BackMarket</a></p>
+<p><img alt="La famille des ThinkStation" src="../images/thinkstation.webp" />
+<em>La série ThinkStation / ThinkCenter de Lenovo.</em>
+<a href="https://www.backmarket.fr/fr-fr/l/unite-centrale-reconditionnee/52751b87-5a52-4180-a05f-eceee9971a5a#brand=99%20Lenovo">Trouver sur BackMarket</a></p>
+<p><img alt="La famille des Z" src="../images/hp_z.jpg" />
+<em>La série WorkStation Z de HP.</em>
+<a href="https://www.ebay.fr/sch/i.html?_nkw=workstation+Z&amp;_sacat=0">Trouver sur eBay</a></p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight", "search.share", "content.action.edit", "navigation.instant", "navigation.tracking", "navigation.sections", "navigation.path", "toc.follow", "content.tooltips"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version": "S\u00e9lectionner la version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.b4d07000.min.js"></script>
+      
+    
+  </body>
+</html>
