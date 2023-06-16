@@ -1,7 +1,7 @@
 ---
-title: Sécuriser son serveur
-sidebar_label: Sécurité
-pagination_label: Sécuriser son serveur
+title: Sécuriser son infra
+sidebar_label: Sécuriser son infra
+pagination_label: Sécuriser son infra
 description: Pourquoi et comment sécuriser son infra ?
 keywords:
   - docs
@@ -98,4 +98,4 @@ Il est important de redémarrer le serveur après les mises à jour pour qu'elle
 
 Pour mettre à jour vos containers Docker automatiquement, on vous conseille d'utiliser [Watchtower](https://containrrr.dev/watchtower/) qui permet de mettre à jour des containers automatiquement dès qu'une nouvelle version est dispo.
 
-Pour plus d'infos, allez donc voir la page dédiée à l'[administration Docker](./05-docker.md) !
+Pour plus d'infos, allez donc voir la page dédiée à l'[administration Docker](./07-docker.md) !

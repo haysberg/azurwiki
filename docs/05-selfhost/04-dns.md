@@ -33,3 +33,22 @@ C'est un hébergeur Français qui peut aussi vous faire une ristourne si vous pr
 
 ## Configurer le changement d'IP automatique
 
+Si vous vivez en France, il y a de fortes chances pour que vous ayez une IP dynamique. C'est un souci si vous avez un nom de domaine. Comment indiquer au serveur DNS que votre IP a changé ?
+
+Pour Cloudflare, vous pouvez utiliser le projet [cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) qui vous permettra de mettre à jour votre IP sans souci !
+
+Pour OVH, il est recommandé d'utiliser [ddclient](https://doc.ubuntu-fr.org/ddclient) comme indiqué dans la [documentation d'OVH](https://help.ovhcloud.com/csm/fr-dns-dynhost?id=kb_article_view&sysparm_article=KB0051644).
+
+Avec OVH, votre config devrait ressembler à ça :
+
+```conf
+# /etc/ddclient.conf
+daemon=2
+protocol=dyndns2
+use=web, web=checkip.dyndns.com, web-skip='Current IP Address'
+server=www.ovh.com
+login=votredomaine.tld-user // à modifier 
+password=votremotdepasse // à modifier
+dyndns.votredomaine.tld // à modifier
+```
+

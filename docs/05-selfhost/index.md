@@ -2,7 +2,6 @@
 id: doc-markdown
 title: Introduction
 sidebar_label: Hébergement
-sidebar_position: 1
 pagination_label: Hébergement
 description: Présentation du self-hosting, et pourquoi auto-héberger
 keywords:
