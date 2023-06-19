@@ -9,14 +9,16 @@ keywords:
 slug: /
 ---
 
-# Bienvenue dans la CASPAR DB
+# Bienvenue sur le wiki CASPAR DB
 
 :::caution
 Le site est en construction et certaines pages pourraient beaucoup changer d'un jour à l'autre !
 :::
 
-Ici on fait une grosse liste de technos sympas !
+Ce wiki est une manière pour nous de centraliser toutes nos connaissances en informatique. Il y a encore beaucoup de travail alors n'hésitez pas à participer sur GitHub !
 
-![HACKERMAN](HACKERMAN.png)
+Vous pouvez [ouvrir une issue](https://github.com/haysberg/random-veille/issues/new) pour suggérer de nouvelles parties si vous le souhaitez !
 
-Nous allons organiser les connaissances que nous avons accumulé au fil du temps en les répartissant en différentes catégories.
+On espère que vous aimerez nous lire !
+
+![LE GROS HACKING](hacking_banner.gif)

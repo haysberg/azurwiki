@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'CASPAR DB',
   tagline: 'Un wiki en Français',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/sunglasis.webp',
 
   // Set the production url of your site here
   url: 'https://haysberg.io',
@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'caspar', // Usually your GitHub org/user name.
-  projectName: 'CASPAR DB', // Usually your repo name.
+  organizationName: 'haysberg', // Usually your GitHub org/user name.
+  projectName: 'random-veille', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/HACKERMAN.png',
+      image: 'img/hacking_banner.gif',
       navbar: {
         title: 'CASPAR DB',
         logo: {
@@ -76,6 +76,11 @@ const config = {
           {
             href: 'https://github.com/haysberg/random-veille',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/users/haysberg/projects/1/views/1',
+            label: 'Roadmap',
             position: 'right',
           },
         ],
