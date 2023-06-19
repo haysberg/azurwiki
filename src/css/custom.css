@@ -4,6 +4,8 @@
  * work well for content-centric websites.
  */
 
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
@@ -15,6 +17,8 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-heading-font-family: 'Jetbrains Mono';
+  --ifm-font-family-monospace: 'Jetbrains Mono';
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
