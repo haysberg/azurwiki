@@ -77,3 +77,4 @@ Voici une liste de ressources pour aller plus loin sur le sujet :
 - [portswigger news SSRF](https://portswigger.net/daily-swig/ssrf)
 - [SSRF bible](https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf)
 
+- Un [repo github](https://github.com/MonsieurCo/A10-2021-SSRF-OWASP-TOP10) réalisé pendant nos études sur lequel je me suis appuyé pour ecrire cet article. Il dispose d'une démonstration d'un serveur web avec une page contenant une SSRF ainsi que d'un serveur caché dans le réseau local du docker qui sera rednu visible avec l'exploit de la faille.
