@@ -120,7 +120,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `CASPAR ${new Date().getFullYear()}. Fait avec Docusaurus.`,
+        copyright: `Polytech CyberSec - ${new Date().getFullYear()}.`,
       },
       prism: {
         theme: darkCodeTheme,
