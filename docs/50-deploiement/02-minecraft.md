@@ -9,7 +9,7 @@ keywords:
 
 Faire un serveur Minecraft pour jouer avec ses amis, ça doit probablement être l'une des choses les plus faites dans les heures qui suivent l'installation d'un serveur. La bonne nouvelle, c'est que c'est très facile à faire.
 
-Comme prérequis vous aurez notamment besoin d'aller voir les pages dédiées à la [gestion des containers Docker](../05-selfhost/07-docker.md).
+Comme prérequis vous aurez notamment besoin d'aller voir les pages dédiées à la [gestion des containers Docker](../40-selfhost/07-docker.md).
 
 Nous allons utiliser l'image Docker [marctv/minecraft-papermc-server](https://hub.docker.com/r/marctv/minecraft-papermc-server) qui contient le serveur Minecraft Paper. L'avantage de Paper, c'est qu'il est ultra optimisé et qu'il permettra donc de faire tourner le container sur quasiment tout, même un Raspberry Pi.
 

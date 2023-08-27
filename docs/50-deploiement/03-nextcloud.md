@@ -15,7 +15,7 @@ Nextcloud est une alternative open source aux services cloud tels que DropBox, G
 - Pas de limite de stockage hormis le disque physique.
 - On a un vieil ordinateur sous la main qui peut avoir une seconde vie
 
-Comme prérequis, vous aurez notamment besoin d'aller voir les pages dédiées à la [gestion des containers Docker](../05-selfhost/07-docker.md).
+Comme prérequis, vous aurez notamment besoin d'aller voir les pages dédiées à la [gestion des containers Docker](../40-selfhost/07-docker.md).
 
 Nous allons utiliser l'image Docker [linuxserver/nextcloud](https://hub.docker.com/r/linuxserver/nextcloud) qui contient la dernière version du serveur Nextcloud.
 
@@ -42,7 +42,7 @@ services:
 
 :::danger
 - N'oubliez pas de faire 2 volumes, un pour le stockage des données /data et un autre pour les fichiers de configuration /config
-- On relie ici le port 3000 au port 443 du containeur, si vous avez un [reverse proxy](../05-selfhost/05-caddy.md) il suffirat de rediriger votre sous domaine vers https://localhost:3000/
+- On relie ici le port 3000 au port 443 du containeur, si vous avez un [reverse proxy](../40-selfhost/05-caddy.md) il suffira de rediriger votre sous domaine vers `http://localhost:3000/`
 :::
 
 Lancer ```docker-compose up``` et si tout se passe bien, vous pouvez aller sur [https://localhost:3000/](https://localhost:3000/) pour créer le compte administrateur :
