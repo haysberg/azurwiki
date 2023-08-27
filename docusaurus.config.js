@@ -123,7 +123,7 @@ const config = {
         copyright: `CASPAR ${new Date().getFullYear()}. Fait avec Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
