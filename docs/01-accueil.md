@@ -11,8 +11,7 @@ slug: /
 
 # Bienvenue sur le wiki CASPAR DB
 
-:::caution
-Le site est en construction et certaines pages pourraient beaucoup changer d'un jour à l'autre !
+:::info 🚧 Le site est en construction !
 :::
 
 Ce wiki est une manière pour nous de centraliser toutes nos connaissances en informatique. Il y a encore beaucoup de travail alors n'hésitez pas à participer sur GitHub !
