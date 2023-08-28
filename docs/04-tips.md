@@ -65,13 +65,13 @@ Vous pourrez aussi trouver un point de collecte solidaire dans le Bâtiment A su
 
 ## Santé
 
-Le psychologue de la fac vous 
-
 Le [Pass Santé Jeunes](https://www.maregionsud.fr/vos-aides/detail/pass-sante-jeunes) vous permet de payer certaines dépenses de santé, que cela soit pour aller voir un psychologue ou d'autres spécialistes.
 
 Sachez aussi que la pilule et les préservatifs sont gratuits en pharmacie pour les moins de 26 ans.
 
 Pour les boursiers, vous pouvez aussi obtenir une aide pour payer votre mutuelle en [cliquant par ici](https://www.maregionsud.fr/vos-aides/detail/pass-mutuelles).
+
+Le psychologue de la fac vous recevra sur rendez-vous. Pour plus d'informations, demandez à la scolarité.
 
 ## Vêtements
 
