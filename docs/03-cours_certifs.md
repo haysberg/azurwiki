@@ -10,6 +10,8 @@ keywords:
   - bouquins
 ---
 
+Vous pouvez avoir accès aux cours et exercices des années précédentes sur le [repo polydrive](https://github.com/zdimension/polydrive).
+
 ## Livres
 
 Vous pourrez trouver une liste de livres en format `epub` et `pdf` en [suivant ce lien](https://drive.proton.me/urls/1EBPAW85W0#IUvueST8Lzut).
