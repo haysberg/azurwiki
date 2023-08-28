@@ -9,7 +9,7 @@ keywords:
 slug: /
 ---
 
-# Bienvenue sur le wiki Azur Wiki
+# Bienvenue sur le wiki Azur
 
 :::info 🚧 Le site est en construction !
 :::
