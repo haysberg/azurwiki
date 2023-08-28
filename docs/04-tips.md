@@ -34,16 +34,34 @@ Vous pouvez en lire + sur le [service-public.fr](https://www.service-public.fr/p
 L'aide mobili-jeune peut vous fournir jusqu'à 100€ par mois pour payer votre essence, votre bus et autres moyens de transport.
 Vous pourrez trouver plus d'information sur [leur site](https://mobilijeune.actionlogement.fr/).
 
+## Logement
+
+Si vous êtes boursier, vous avez bien entendu droit à un logement du Crous.
+
+Mais si ne l'êtes pas, vous pouvez avoir accès à d'autres aides tout de même. Par exemple, plusieurs Foyers de Jeunes Travailleurs sont disponibles dans la région. Vous trouverez une [liste sur le site de la CAF](https://www.caf.fr/allocataires/caf-des-alpes-maritimes/offre-de-service/logement/vous-etes-jeune-travailleur-et-vous-recherchez-un-logement-temporaire).
+
+Pour voir les autres aides au logement disponibles dans la région, vous pouvez aller voir la [page dédiée sur le site de la fac](https://univ-cotedazur.fr/international/venir-a-universite-cote-d-azur/venir-en-tant-quetudiant/se-loger).
+
 ## Nourriture
+
+### TooGoodToGo
 
 Si jamais vous arrivez à trouver des deals prêt de chez vous, [TooGoodToGo](https://www.toogoodtogo.com/fr) vous permet de manger des produits frais et surtout à pas cher du tout !
 Boulangerie / pâtisserie, fruits, légumes, viande, vous trouverez de quoi dépanner et surtout alléger votre budget nourriture.
 
+### AGORAé
+
+Vous pouvez aussi vous inscrire sur le [site de la FACE 06](https://www.face06.com/) pour profiter notamment d'une épicerie solidaire AGORAé, qui pratique une **réduction de 85%** sur le prix de ses produits, ce qui permet de faire ses courses à moindre frais.
+
+### École Hôtelière de Nice
+
+L'école Hôtelière Paul Augier vous accueillera tous les jeudis soir pour peu cher, avec un repas préparé par les étudiants de l'école, **pour peu que vous ayez réservé** sur [leur site](https://www.lycee-paul-augier.com/).
+
+### Dons de nourriture
+
 Pour ceux qui sont le plus dans la galère, vous pouvez aussi aller voir les restos du coeur, que ça soit à [Antibes](https://ad06.restosducoeur.org/centres-departementaux/ad06-centre-dactivites-antibes/) ou [aux alentours](https://ad06.restosducoeur.org/centres-departementaux/).
 
 Vous pourrez aussi trouver un point de collecte solidaire dans le Bâtiment A sur le campus des Templiers, où sur la table dans le hall du Bâtiment des Lucioles. Il n'y a pas un grand choix, mais si vous n'avez plus rien à manger du tout ça vous sauvera d'y trouver un paquet de pâtes.
-
-L'école Hêtelière Paul Augier vous accueillera tous les jeudis soir pour peu cher, avec un repas préparé par les étudiants de l'école, **pour peu que vous ayez réservé** sur [leur site](https://www.lycee-paul-augier.com/).
 
 ## Santé
 
