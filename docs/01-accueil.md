@@ -9,7 +9,7 @@ keywords:
 slug: /
 ---
 
-# Bienvenue sur le wiki CASPAR DB
+# Bienvenue sur le wiki Azur Wiki
 
 :::info 🚧 Le site est en construction !
 :::
@@ -20,7 +20,7 @@ De plus, vous trouverez une liste des aides / réductions / dons en nature auxqu
 
 Ce wiki est une manière pour nous de centraliser toutes nos connaissances en informatique et autres tips. Il y a encore beaucoup de travail alors n'hésitez pas à participer sur GitHub !
 
-Vous pouvez [ouvrir une issue](https://github.com/haysberg/random-veille/issues/new) pour suggérer de nouvelles parties si vous le souhaitez !
+Vous pouvez [ouvrir une issue](https://github.com/haysberg/azurwiki/issues/new) pour suggérer de nouvelles parties si vous le souhaitez !
 
 On espère que vous aimerez nous lire !
 

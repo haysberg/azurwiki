@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CASPAR DB',
+  title: 'Azur Wiki',
   tagline: 'Un wiki en Français',
   favicon: 'img/sunglasis.webp',
 
@@ -14,12 +14,12 @@ const config = {
   url: 'https://haysberg.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/random-veille',
+  baseUrl: '/azurwiki',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'haysberg', // Usually your GitHub org/user name.
-  projectName: 'random-veille', // Usually your repo name.
+  projectName: 'azurwiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/haysberg/random-veille/tree/main/docs',
+            'https://github.com/haysberg/azurwiki/tree/main/docs',
         },
         blog: false,
         pages: false,
@@ -61,9 +61,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/hacking_banner.gif',
       navbar: {
-        title: 'CASPAR DB',
+        title: 'Azur Wiki',
         logo: {
-          alt: 'CASPAR DB',
+          alt: 'Azur Wiki',
           src: 'img/pepehack.gif',
         },
         items: [
@@ -74,7 +74,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           {
-            href: 'https://github.com/haysberg/random-veille',
+            href: 'https://github.com/haysberg/azurwiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
         //     items: [
         //       {
         //         label: 'GitHub',
-        //         href: 'https://github.com/haysberg/random-veille',
+        //         href: 'https://github.com/haysberg/azurwiki',
         //       },
         //     ],
         //   },
