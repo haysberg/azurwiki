@@ -7,6 +7,7 @@ keywords:
   - docs
   - polytech
   - thunes
+slug: thunes
 ---
 
 Bonjour ! Ici on essaie de faire une liste de bons plans et autres aides auxquels vous pouvez prétendre quand vous êtes étudiants !
