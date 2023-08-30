@@ -5,7 +5,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
-const config = {
+module.exports = {
   title: 'Azur Wiki',
   tagline: 'Un wiki en Français',
   favicon: 'img/sunglasis.webp',
@@ -25,6 +25,12 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  plugins: [[ require.resolve('docusaurus-lunr-search'), {
+    languages: ['fr'],
+    indexBaseUrl: true,
+    disableVersioning: true
+  }]],
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -128,5 +134,3 @@ const config = {
       },
     }),
 };
-
-module.exports = config;
