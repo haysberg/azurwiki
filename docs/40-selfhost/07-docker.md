@@ -19,7 +19,8 @@ Au passage, si vous souhaitez déployer un service sur votre serveur, prenez le 
 ## C'est quoi Docker ?
 
 Docker, ça permet d'encapsuler une application avec toutes ses dépendances :
-- Le système d'exploitation 
+
+- Le système d'exploitation
 - Les paquets nécessaires
 - L'application en elle-même
 
@@ -47,10 +48,10 @@ Concrètement, `docker compose` permet deux choses :
 - Sauvegarder une longue commande Docker
 - Déployer plusieurs containers qui partagent le même réseau virtuel
 
-Par exemple, ce fichier YAML permet de faire tourner une application NodeJS avec la base de données MongoDB nécessaire : 
+Par exemple, ce fichier YAML permet de faire tourner une application NodeJS avec la base de données MongoDB nécessaire :
 
 ```yaml
-version: '3'
+version: "3"
 services:
   app:
     image: node:latest
@@ -65,7 +66,7 @@ services:
     environment:
       MYSQL_HOST: localhost
       MYSQL_USER: root
-      MYSQL_PASSWORD: 
+      MYSQL_PASSWORD:
       MYSQL_DB: test
   mongo:
     image: mongo

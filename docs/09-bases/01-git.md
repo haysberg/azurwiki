@@ -12,6 +12,7 @@ keywords:
 Git, c'est **LE** logiciel que vous devez connaitre pour réussir à travailler en équipe. Développeur, DevOps, Ops, tout le monde utilise Git pour la simple et bonne raison qu'il n'existe pas vraiment d'alternatives, Git ayant tout simplement écrasé la concurrence lors de sa sortie.
 
 Vous trouverez bien évidemment plusieurs serveurs Git, dont voici une petite liste non-exhaustive :
+
 - [GitHub](https://github.com/), sur lequel est hébergé ce site d'ailleurs.
 - [GitLab](https://gitlab.com/gitlab-org/gitlab), qui propose par ailleurs une instance gratuite, mais avec + de conditions que GitHub.
 - [Forgejo](https://forgejo.org/), dont l'instance principale est [codeberg.org](https://codeberg.org/). Forgejo est un logiciel libre, et est très léger ce qui permet de le déployer un peu partout, si vous souhaitez vous passer de GitHub notamment.
@@ -33,6 +34,7 @@ git clone <repo_url>
 ```
 
 ### Ajouter des fichiers au tracking de Git
+
 ```bash
 git add <fichiers>
 ```
@@ -42,17 +44,20 @@ Vous pouvez aussi utiliser des wildcards comme `*` ou `.`.
 :::
 
 ### Créer une branche
+
 ```bash
 git checkout -b <nom_branche>
 ```
 
 ### Commit vos changements et les push
+
 ```bash
 git commit -m "message du commit"
 git push
 ```
 
 ### Merge une branche A dans une branche B
+
 ```bash
 git checkout branche_b
 git merge branche_a

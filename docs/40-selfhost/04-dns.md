@@ -12,18 +12,18 @@ Obtenir un nom de domaine va vite être nécessaire, que cela soit en terme de s
 
 ## Quel registar choisir ?
 
-Pour obtenir un nom de domaine, vous allez devoir passer par un *registar*, autrement dit une entreprise capable d'enregistrer un nom de domaine.
+Pour obtenir un nom de domaine, vous allez devoir passer par un _registar_, autrement dit une entreprise capable d'enregistrer un nom de domaine.
 
 Nous en recommandons deux.
 
 ### 🥇 Cloudflare
 
-[Cloudflare](https://www.cloudflare.com/fr-fr/) est un des registars les plus utilisés dans le monde. 
+[Cloudflare](https://www.cloudflare.com/fr-fr/) est un des registars les plus utilisés dans le monde.
 Le nombre de serveurs DNS repliqués un peu partout de Cloudflare permet d'avoir des temps de réponse plus rapides.
 
 De plus, Cloudflare ne gagne pas d'argent sur leur enregistrements DNS ! Le prix demandé est uniquement celui que coûte réellement le nom de domaine (fixé par les îles Tuvalu pour le `.tv` par exemple). Cloudflare ne touche donc aucune marge sur leurs ventes de DNS, et font du chiffre d'affaire sur tous les autres services qu'ils proposent.
 
-*Notez que nous ne recommandons pas les autres produits de Cloudflare.*
+_Notez que nous ne recommandons pas les autres produits de Cloudflare._
 
 ### 🥈 OVH
 
@@ -47,8 +47,7 @@ daemon=2
 protocol=dyndns2
 use=web, web=checkip.dyndns.com, web-skip='Current IP Address'
 server=www.ovh.com
-login=votredomaine.tld-user // à modifier 
+login=votredomaine.tld-user // à modifier
 password=votremotdepasse // à modifier
 dyndns.votredomaine.tld // à modifier
 ```
-

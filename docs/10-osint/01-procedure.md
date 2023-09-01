@@ -9,8 +9,7 @@ keywords:
   - OSINT
 ---
 
-
-:::caution 
+:::caution
 **PAGE EN COURS DE CONSTRUCTION**
 :::
 

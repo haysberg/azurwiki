@@ -39,14 +39,14 @@ services:
 
     # Les fichiers server.properties et tous les autres seront dans ce dossier
     volumes:
-      - /chemin/vers/fichiers:/data 
+      - /chemin/vers/fichiers:/data
 
     # Remplacer xxxxx par le port sur lequel le serveur écoutra
     ports:
-      - xxxxx:25565 
+      - xxxxx:25565
 
     # Pour être sûr que le serveur redémarre automatiquement
-    # en cas de crash ou de reboot de la machine  
+    # en cas de crash ou de reboot de la machine
     restart: unless-stopped
 ```
 

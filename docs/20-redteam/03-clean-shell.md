@@ -42,7 +42,7 @@ Depuis le shell de la victime, exécutez la commande suivante :
 bash-5.1$ script /dev/null -c bash
 script /dev/null -c bash
 Script started, output log file is '/dev/null'.
-bash-5.1$ 
+bash-5.1$
 ```
 
 Vous obtenez ainsi un second shell, attaché cette fois au TTY.

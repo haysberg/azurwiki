@@ -13,7 +13,7 @@ keywords:
 Voilà une configuration tout à fait lambda, que l'on va décortiquer ensemble.
 Cette configuration vous permettra de rendre public un dossier sur votre serveur pour pouvoir y télécharger des fichiers, ainsi qu'une instance Portainer que vous pouvez trouver dans la page dédiée à [Docker](./07-docker.md).
 
-*Notez que le fichier de configuration par défaut pour Caddy est dans `/etc/caddy/Caddyfile`.*
+_Notez que le fichier de configuration par défaut pour Caddy est dans `/etc/caddy/Caddyfile`._
 
 ```
 files.example.net {

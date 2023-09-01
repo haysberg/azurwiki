@@ -10,7 +10,7 @@ keywords:
 
 On ne le dira jamais assez, mais **la sécurité c'est important !**
 
-Si vous ne respectez pas certaines règles basiques votre serveur sera à la merci de n'importe qui qui trouvera votre IP (*spoiler* : ça n'est pas très compliqué).
+Si vous ne respectez pas certaines règles basiques votre serveur sera à la merci de n'importe qui qui trouvera votre IP (_spoiler_ : ça n'est pas très compliqué).
 
 Voilà quelques règles assez simples que vous pouvez suivre pour sécuriser l'accès à votre infra.
 
@@ -18,7 +18,7 @@ Voilà quelques règles assez simples que vous pouvez suivre pour sécuriser l'a
 
 Vous entendrez souvent dire qu'il faut absolument créer un utilisateur "normal" non privilégié pour ne pas faire toutes les opérations en tant que `root`. Cela n'est pas nécessaire.
 
-On entends surtout deux justifications pour la création d'un utilisateur normal : 
+On entends surtout deux justifications pour la création d'un utilisateur normal :
 
 **🗨️ "Si tu te fais hacker le hacker ne pourra pas faire beaucoup de dégats !"**
 
@@ -26,7 +26,7 @@ C'est faux. Même sans être administrateur, un hacker qui prendrait le contrôl
 
 De plus, la plupart des services qui sont fait pour tourner sur le réseau (LDAP, Serveur Web, etc...) ne tournent pas avec votre utilisateur ou avec `root`, mais avec un utilisateur dédié qui possède des droits limités, au cas où?
 
-On notera au passage que si l'utilisateur possède les droits `sudo` il peut faire ce qu'il veut en tant que `root`. C'est d'ailleurs une des premières vérifications que fera un attaquant pour effectuer une élévation de privilèges. *Pourquoi chercher une faille quand on peut juste rajouter 4 lettres devant une commande ?*
+On notera au passage que si l'utilisateur possède les droits `sudo` il peut faire ce qu'il veut en tant que `root`. C'est d'ailleurs une des premières vérifications que fera un attaquant pour effectuer une élévation de privilèges. _Pourquoi chercher une faille quand on peut juste rajouter 4 lettres devant une commande ?_
 
 **🗨️ "Si tu fais la mauvaise commande tu peux détruire ta machine !"**
 
@@ -34,8 +34,7 @@ C'est plus ou moins vrai. L'habitude d'utiliser `sudo` devant chaque commande d'
 
 Ce qu'il faut comprendre ici, c'est qu'être `root` ou faire partie du groupe `sudoers` revient quasiment au même.
 
-Il est inutile voire même dangeureux de se protéger derrière `sudo`. Un faux sens de sécurité s'installe et *hop*, avant qu'on s'en soit rendu compte on mine du Bitcoin sur le serveur du salon.
-
+Il est inutile voire même dangeureux de se protéger derrière `sudo`. Un faux sens de sécurité s'installe et _hop_, avant qu'on s'en soit rendu compte on mine du Bitcoin sur le serveur du salon.
 
 ## 🔐 Utilisez un bon mot de passe / Désactivez-le
 
@@ -57,6 +56,7 @@ PubkeyAuthentication yes
 Une clé SSH, c'est un autre moyen de vous authentifier ! Cela permet notamment de remplacer votre mot de passe, surtout si il est très long.
 
 Pour générer une clé, vous pouvez taper la commande suivante sous Linux et MacOS :
+
 ```bash
 ssh-keygen -t ed25519 -C "ton_email@example.com"
 ```
@@ -72,7 +72,7 @@ Si vous avez un souci avec la génération de votre clé, on vous conseille le [
 
 [Fedora](https://fedoraproject.org/fr/) fournit par défaut [Cockpit](https://cockpit-project.org/) qui permet d'éditer les règles de votre pare-feu facilement.
 
-Si votre box n'est pas configurée en mode DMZ, elle *devrait* bloquer tous les ports qui ne sont pas explicitement ouverts.
+Si votre box n'est pas configurée en mode DMZ, elle _devrait_ bloquer tous les ports qui ne sont pas explicitement ouverts.
 
 Il faut absolument bloquer tous les ports si vous n'avez pas besoin qu'ils soient joignables depuis l'extérieur. Il suffit d'un service vulnérable sur le réseau pour que votre instance soit compromise.
 

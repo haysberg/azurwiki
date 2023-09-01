@@ -1,63 +1,67 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
-  title: 'Azur Wiki',
-  tagline: 'Un wiki en Français',
-  favicon: 'img/sunglasis.webp',
+  title: "Azur Wiki",
+  tagline: "Un wiki en Français",
+  favicon: "img/sunglasis.webp",
 
   // Set the production url of your site here
-  url: 'https://haysberg.io',
+  url: "https://haysberg.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/azurwiki',
+  baseUrl: "/azurwiki",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'haysberg', // Usually your GitHub org/user name.
-  projectName: 'azurwiki', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  organizationName: "haysberg", // Usually your GitHub org/user name.
+  projectName: "azurwiki", // Usually your repo name.
+  deploymentBranch: "gh-pages",
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
-  plugins: [[ require.resolve('docusaurus-lunr-search'), {
-    languages: ['fr'],
-    indexBaseUrl: true,
-    disableVersioning: true
-  }]],
+  plugins: [
+    [
+      require.resolve("docusaurus-lunr-search"),
+      {
+        languages: ["fr"],
+        indexBaseUrl: true,
+        disableVersioning: true,
+      },
+    ],
+  ],
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'fr',
-    locales: ['fr'],
+    defaultLocale: "fr",
+    locales: ["fr"],
   },
 
   presets: [
     [
-      '@docusaurus/preset-classic',
-      ({
+      "@docusaurus/preset-classic",
+      {
         docs: {
-          routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: "/",
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/haysberg/azurwiki/tree/main/docs',
+          editUrl: "https://github.com/haysberg/azurwiki/tree/main/docs",
         },
         blog: false,
         pages: false,
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
-      }),
+      },
     ],
   ],
 
@@ -65,12 +69,12 @@ module.exports = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/hacking_banner.gif',
+      image: "img/hacking_banner.gif",
       navbar: {
-        title: 'Azur Wiki',
+        title: "Azur Wiki",
         logo: {
-          alt: 'Azur Wiki',
-          src: 'img/pepehack.gif',
+          alt: "Azur Wiki",
+          src: "img/pepehack.gif",
         },
         items: [
           // {
@@ -80,19 +84,19 @@ module.exports = {
           //   label: 'Tutorial',
           // },
           {
-            href: 'https://github.com/haysberg/azurwiki',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/haysberg/azurwiki",
+            label: "GitHub",
+            position: "right",
           },
           {
-            href: 'https://github.com/users/haysberg/projects/1/views/1',
-            label: 'Roadmap',
-            position: 'right',
+            href: "https://github.com/users/haysberg/projects/1/views/1",
+            label: "Roadmap",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         // links: [
         //   {
         //     title: 'Docs',

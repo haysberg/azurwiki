@@ -12,7 +12,7 @@ keywords:
 
 Choisir une machine, c'est tout un art !
 
-Vos services vont devoir tourner sur votre propre serveur, c'est donc là que vous devrez faire ce que font traditionellement les hébergeurs cloud pour vous : choisir le *hardware* sur lequel vont tourner tout ce que vous souhaitez héberger.
+Vos services vont devoir tourner sur votre propre serveur, c'est donc là que vous devrez faire ce que font traditionellement les hébergeurs cloud pour vous : choisir le _hardware_ sur lequel vont tourner tout ce que vous souhaitez héberger.
 
 Démystifions quelque chose d'assez répandu : un serveur, c'est un ordinateur comme les autres ! Il fonctionne comme n'importe quel autre ordinateur. Il a juste un hardware qui lui permet de résister un peu mieux aux pannes. Un ordinateur personnel **peut** être un serveur !
 
@@ -23,7 +23,7 @@ Passons en revue les différentes options qui peuvent s'offrir à vous si vous s
 Cette configuration vous permettra de streamer des séries stockées au préalable, faire tourner des serveurs Minecraft, un serveur Web et autre joyeusetés (bloqueur de pub par exemple).
 
 | Matériel          | Recommandations minimales                 |
-|-------------------|-------------------------------------------|
+| ----------------- | ----------------------------------------- |
 | CPU               | i7 4e Gen / i5 8e Gen                     |
 | GPU               | Aucun                                     |
 | RAM               | 8 Go (16 pour un serveur Minecraft moddé) |
@@ -33,7 +33,7 @@ Cette configuration vous permettra de streamer des séries stockées au préalab
 :::warning A propos du stockage
 Certaines machines ne proposent qu'un seul emplacement de disque.
 Il vous sera donc impossible d'avoir deux disques de stockage.
-*Pour le SSD, il se cale un peu n'importe où, vu qu'il ne tourne pas.*
+_Pour le SSD, il se cale un peu n'importe où, vu qu'il ne tourne pas._
 :::
 
 ## Vous avez déjà un ordinateur
@@ -58,7 +58,7 @@ Nous vous conseillons uniquement deux sites pour pouvoir acheter vos machines :
 Pour éviter les frais de douane, ne commandez que chez des fournisseurs qui expédient depuis l'Union Européenne (le Royaume-Uni ne compte pas).
 :::
 
-## Les erreurs à ne pas faire 
+## Les erreurs à ne pas faire
 
 ### Avoir un serveur trop gourmand
 
@@ -74,7 +74,7 @@ Il est évidemment un gâchis d'argent d'acheter un serveur qui ne pourra faire 
 
 ### Avoir un serveur trop petit
 
-*On parle ici des dimensions du serveur.*
+_On parle ici des dimensions du serveur._
 
 Si vous prévoyez de rajouter du stockage en plus du disque dur qui sera (peut-être) fourni avec votre machine, faites bien attention à avoir la place dedans !
 
@@ -96,15 +96,15 @@ Voici quelques machines qu'il peut être intéressant de chercher. On ne va pas 
 
 ![La famille des Optiplex](images/optiplex.webp)
 
-*La série Optiplex de Dell.*
+_La série Optiplex de Dell._
 [Trouver sur BackMarket](https://www.backmarket.fr/fr-fr/search?q=optiplex)
 
 ![La famille des ThinkStation](images/thinkstation.webp)
 
-*La série ThinkStation / ThinkCenter de Lenovo.*
+_La série ThinkStation / ThinkCenter de Lenovo._
 [Trouver sur BackMarket](https://www.backmarket.fr/fr-fr/l/unite-centrale-reconditionnee/52751b87-5a52-4180-a05f-eceee9971a5a#brand=99%20Lenovo)
 
 ![La famille des Z](images/hp_z.jpg)
 
-*La série WorkStation Z de HP.*
+_La série WorkStation Z de HP._
 [Trouver sur eBay](https://www.ebay.fr/sch/i.html?_nkw=workstation+Z&_sacat=0)

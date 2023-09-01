@@ -41,11 +41,12 @@ services:
 ```
 
 :::danger
+
 - N'oubliez pas de faire 2 volumes, un pour le stockage des données /data et un autre pour les fichiers de configuration /config
 - On relie ici le port 3000 au port 443 du containeur, si vous avez un [reverse proxy](../40-selfhost/05-caddy.md) il suffira de rediriger votre sous domaine vers `http://localhost:3000/`
-:::
+  :::
 
-Lancer ```docker-compose up``` et si tout se passe bien, vous pouvez aller sur [https://localhost:3000/](https://localhost:3000/) pour créer le compte administrateur :
+Lancer `docker-compose up` et si tout se passe bien, vous pouvez aller sur [https://localhost:3000/](https://localhost:3000/) pour créer le compte administrateur :
 
 ![Création du compte admin](./images/create_nextcloud.png)
 

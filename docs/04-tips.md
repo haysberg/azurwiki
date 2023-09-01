@@ -95,7 +95,6 @@ L'offre n'est actuellement plus valable, mais ça vaut peut-être le coup d'envo
 
 Si vous êtes boursier ou éligible à d'autres aides listées sur [depart1825.com](https://depart1825.com/), vous pouvez obtenir des aides pour partir en vacances !
 
-
 ## Matériel
 
 À Polytech, les boursiers peuvent acheter un ordinateur pour 100€.
@@ -110,8 +109,9 @@ Pour vos autres besoins comme les téléphones portables, ordinateurs fixes et a
 ### GitHub Student Pack
 
 Le [GitHub Student Pack](https://education.github.com/pack) offre de nombreuses licences pro et autres avantages gratuitement, notamment :
+
 - Licence Pro pour tous les IDEs JetBrains
-- Des noms de domaine / emails en `.me`, `.tech` et `.live` avec Namecheap, Name.com et 
+- Des noms de domaine / emails en `.me`, `.tech` et `.live` avec Namecheap, Name.com et
 - Accès aux formations Azure Cloud, ainsi qu'un accès à + de 25 services Azure gratuitement + 100$ de crédit cloud
 - 200$ de crédit pour DigitalOcean (location de VPS)
 - GitHub Pro (+ de temps pour vos pipelines, et outils supplémentaires sur vos repos privés)
@@ -126,7 +126,8 @@ Vous pouvez récupérer une licence Office365 gratuite avec votre mail `unice.fr
 
 Pour activez vos Windows, peu importe la version, vous pouvez utiliser [ce projet sur GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts).
 
-Copiez-collez ce bout de code dans une fenêtre PowerShell en tant qu'admin et magie : 
+Copiez-collez ce bout de code dans une fenêtre PowerShell en tant qu'admin et magie :
+
 ```powershell
 irm https://massgrave.dev/get | iex
 ```

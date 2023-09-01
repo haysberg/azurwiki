@@ -11,7 +11,6 @@ keywords:
 
 Le self-hosting est la pratique d'avoir un serveur chez soi, et d'héberger ses services soit-même. Les services que l'on peut héberger soit-même sont très nombreux, mais nous essaierons de faire une liste de ceux que nous avons déjà utilisés afin que vous puissiez découvrir une petite partie de ce que vous avez à y gagner.
 
-
 ## Pourquoi faire du self-hosting ?
 
 Les motivations principales pour faire du self-hosting sont généralement les suivantes :
@@ -30,7 +29,6 @@ Pour pouvoir utiliser votre propre serveur à la maison, il vous faudra :
 - :muscle: **De la motivation** : Si vous n'y connaissez rien, prenez votre temps. Rome ne s'est pas construite en un jour ! Une fois que vous y serez, vous pourrez être fier du travail accompli.
 
 - :globe_with_meridians: **Une connexion Internet** : Bien qu'il soit possible d'avoir accès à un serveur depuis Internet si celui-ci tourne derrière une box ADSL, beaucoup de services nécessite d'avoir plus de 6 Mbps de bande passante à disposition, il est donc fortement recommandé d'être **fibré**.
-
 
 :::warning Note concernant les types de boxs Internet supportées
 

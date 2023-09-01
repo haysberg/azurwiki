@@ -11,6 +11,7 @@ keywords:
 ## Pourquoi apprendre à crocheter ?
 
 ### Introduction
+
 La sécurité informatique est essentielle, mais il ne faut pas oublier la sécurité physique. En effet, il est possible de crocheter une serrure en quelques secondes, et il est donc important de savoir comment se protéger de ce genre d'attaque. Et se rendre compte de la robustesse de sa serrure est un bon moyen de se rendre compte de la sécurité d'un lieu sensible comme une salle de serveur.
 
 ### Composition d'une serrure
@@ -35,7 +36,6 @@ Voici un GIF qui montre le fonctionnement d'une serrure :
 
 ![serrure](images/crochets.gif)
 
-
 ### Les outils du crocheteur
 
 Il existe plusieurs outils pour crocheter une serrure, mais les deux principaux sont les suivants :
@@ -51,6 +51,7 @@ une clé de tension :
 ![clé de tension](images/cle_de_tension.png)
 
 ### Le Raclage
+
 Le but est d'appuyer les goupille avec votre crochet et alignez-les comme indiqué sur l'image. Cela imite ce que fait la clé lorsqu'elle est insérée dans la serrure
 
 outils nécessaires :
@@ -58,7 +59,7 @@ outils nécessaires :
 - Un crochet râteau
 - Clé de tension
 
-#### Première étape 
+#### Première étape
 
 Tenez le cadenas dans votre main
 et insérez la clé de tension
@@ -73,7 +74,6 @@ serrure. Choisissez simplement ce
 qui vous semble le plus naturel.
 
 ![raclage_1](images/raclage_1.png)
-
 
 #### Deuxième étape
 
@@ -92,6 +92,7 @@ se placer (vous les entendrez
 ![raclage_2](images/raclage_2.png)
 
 #### Troisième étape
+
 Tout en maintenant la pression
 sur la clé de tension, inspectez où
 sont les goupilles une fois que
@@ -117,7 +118,7 @@ Le but est d’appuyer sur les goupilles une par une individuellement avec votre
 - Un crochet simple
 - Clé de tension
 
-#### Première étape 
+#### Première étape
 
 La première étape est la même que pour la méthode de raclage, il faut tenir la serrure dans la main et insérer la clé de tension comme indiqué sur l'image de la méthode de raclage.
 

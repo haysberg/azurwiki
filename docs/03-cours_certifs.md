@@ -28,7 +28,8 @@ En sécurité, une certification peut vous permettre d'obtenir un meilleur poste
 Dans tous les cas, c'est un gage certain de votre niveau technique, ce qui est souvent un prérequis pour certains postes, par exemple pentester.
 
 Si vous ne souhaitez pas vous spécialiser, nous ne pouvons que vous conseiller HackTheBox Academy.
-Téo Haÿs (que vous pouvez retrouver sur [la page des anciens](./02-anciens.md)) a fait les démarches pour que vous obteniez une réduction à 8€ par mois pour l'accès à tous les cours de Niveau 2 et moins, ce qui est suffisant pour vous occuper un bon bout de temps, et pour passer les deux certifications de HTB Academy : 
+Téo Haÿs (que vous pouvez retrouver sur [la page des anciens](./02-anciens.md)) a fait les démarches pour que vous obteniez une réduction à 8€ par mois pour l'accès à tous les cours de Niveau 2 et moins, ce qui est suffisant pour vous occuper un bon bout de temps, et pour passer les deux certifications de HTB Academy :
+
 - **Certified Penetration Testing Specialist**, qui fait du pentesting en général.
 - **Certified Bug Bounty Hunter** qui se spécialise sur le Bug Bounty et beaucoup sur le pentesting Web.
 
