@@ -80,6 +80,11 @@ module.exports = {
           //   label: 'Tutorial',
           // },
           {
+            href: 'https://discord.gg/asYdxuSEdf',
+            label: 'Discord',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/haysberg/azurwiki',
             label: 'GitHub',
             position: 'right',
