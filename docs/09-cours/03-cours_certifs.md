@@ -10,16 +10,6 @@ keywords:
   - bouquins
 ---
 
-Vous pouvez avoir accès aux cours et exercices des années précédentes sur le [repo polydrive](https://github.com/zdimension/polydrive).
-
-## Livres
-
-Vous pourrez trouver une liste de livres en format `epub` et `pdf` en [suivant ce lien](https://drive.proton.me/urls/1EBPAW85W0#IUvueST8Lzut).
-Vous y trouverez `254` livres différents, couvrant de nombreux sujets. Il y en a sûrement un pour vous !
-
-Si jamais vous vous intéressez au métier de SRE / SysAdmin, il est aussi recommandé de lire les trois livres de Google sur le SRE.
-Google les mets à disposition gratuitement en `pdf` [via ce lien](https://sre.google/books/).
-
 ## Certifications
 
 ### HackTheBox Academy
@@ -28,7 +18,7 @@ En sécurité, une certification peut vous permettre d'obtenir un meilleur poste
 Dans tous les cas, c'est un gage certain de votre niveau technique, ce qui est souvent un prérequis pour certains postes, par exemple pentester.
 
 Si vous ne souhaitez pas vous spécialiser, nous ne pouvons que vous conseiller HackTheBox Academy.
-Téo Haÿs (que vous pouvez retrouver sur [la page des anciens](./02-anciens.md)) a fait les démarches pour que vous obteniez une réduction à 8€ par mois pour l'accès à tous les cours de Niveau 2 et moins, ce qui est suffisant pour vous occuper un bon bout de temps, et pour passer les deux certifications de HTB Academy : 
+Téo Haÿs (que vous pouvez retrouver sur [la page des anciens](../02-anciens.md)) a fait les démarches pour que vous obteniez une réduction à 8€ par mois pour l'accès à tous les cours de Niveau 2 et moins, ce qui est suffisant pour vous occuper un bon bout de temps, et pour passer les deux certifications de HTB Academy : 
 - **Certified Penetration Testing Specialist**, qui fait du pentesting en général.
 - **Certified Bug Bounty Hunter** qui se spécialise sur le Bug Bounty et beaucoup sur le pentesting Web.
 
