@@ -90,7 +90,7 @@ module.exports = {
             position: 'right',
           },
           {
-            href: 'https://github.com/users/haysberg/projects/1/views/1',
+            href: 'https://github.com/users/haysberg/projects/1/views/1?filterQuery=-status%3A%22Fini+%21%22',
             label: 'Roadmap',
             position: 'right',
           },
