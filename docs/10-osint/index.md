@@ -39,7 +39,7 @@ L’OSINT est un acronyme pour Open Source Intelligence. Même si une littératu
 - [Fuseaux horaires](https://24timezones.com/carte-fuseaux-horaires) *carte des fuseaux horaires*
 - [hudsonrock](https://cavalier.hudsonrock.com/passwords) *site de recherche de compte compromis par nom de domaine*
 -  [BlackBird](https://blackbird-osint.herokuapp.com) *site de recherche par pseudonyme*
--  [OSINT tracker](https://app.osintracker.com/) *solution de suivis d'enquête* **EST HÉBERGÉ SUR LE CLOUD**
+-  [OSINT tracker](https://app.osintracker.com/) *solution de suivis d'enquête*
 -  [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) *envoi de SMS anonyme*
 -  [you.com](https://you.com/) *moteur de recherche assisté par IA*
 -  [Geogramint](https://github.com/Alb-310/Geogramint) *outil de géolocalisation pour Telegram* **EXEMPLE D'APPLICATION [ICI](https://projetfox.com/2022/08/geogramint-outil-osint-geolocalisation-telegram/)**
