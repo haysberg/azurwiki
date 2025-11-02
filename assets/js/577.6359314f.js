@@ -1,0 +1,1 @@
+(globalThis.webpackChunkazurwiki=globalThis.webpackChunkazurwiki||[]).push([[577],{549:(a,i,k)=>{"use strict";k.d(i,{A:()=>u});var s=k(8291);k(6121)(s),k(7923)(s);const u=s},5741:()=>{}}]);
